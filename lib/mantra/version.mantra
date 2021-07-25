@@ -1,0 +1,5 @@
+package mantra
+  class version
+    def VERSION = "0.0.1-dev"
+  end
+end
