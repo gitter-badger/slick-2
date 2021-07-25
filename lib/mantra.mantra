@@ -2,7 +2,7 @@ require "lib/version.mantra"
 
 package lib
   class mantra
-    define mantra
+    define mantra()
       :attr_accessor @input
       :attr_getter   @get
     end
