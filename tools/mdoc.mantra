@@ -1,0 +1,19 @@
+# mdoc: A JSON based documentation generator for Mantra
+require json
+require stdlib
+
+packge tools 
+  class mdoc
+    :attr_accessor @input
+    :getter        @getter
+
+    define initialize(@input, @getter)
+      @input = "virtual"
+      @getter = []
+    end
+
+    define mdoc(@input)
+      define @input = mdoc.self
+    end
+  end
+end
