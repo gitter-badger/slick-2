@@ -1,4 +1,4 @@
-module boot
+package boot
   define boot
     :attr_accessor @input
   end
