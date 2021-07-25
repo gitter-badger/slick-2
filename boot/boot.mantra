@@ -1,0 +1,5 @@
+module boot
+  define boot
+    :attr_accessor @input
+  end
+end
