@@ -1,0 +1,13 @@
+package lib
+  class mantra
+    define mantra
+      :attr_accessor @input
+      :attr_getter   @get
+    end
+
+    define initialize(@input, @get)
+      @input = "virtual"
+      @get   = []
+    end
+  end
+end
