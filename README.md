@@ -21,6 +21,18 @@ The mantra programming-language is quick evolving and mantaining a clean ecosyst
 
 > Note: Mantra is a work-in-progress, so many features are still not yet implemented
 
+## Installing Mantra
+
+The simplest way to get Mantra installed on your system is to fire up a unix-like shell and type:
+
+> Note: The installation requires git and elixir/mix installed
+
+```bash
+git clone https://github.com/timo-cmd2/mantra.git mantra
+cd mantra
+mix deps.get
+mix compile
+```
 
 ## Find mantra on the internet
 
