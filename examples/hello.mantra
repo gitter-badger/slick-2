@@ -1,0 +1,3 @@
+define greet(name)
+  puts "Hello, #{name}!"
+end
