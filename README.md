@@ -8,4 +8,10 @@ A duck-typed, dynamic oop language with a fully redundant actor-model, running o
 
 ## Find mantra on the internet
 
-- **
+- **IRC Channel**: #mantra-lang @ freenode
+- **Gitter chat**: #mantra-lang coming soon
+- **Mantra website**: https://mantra-lang.org coming soon
+
+## Licensing
+
+The Mantra programming-language is build by Timo Sarkar <sartimo10@gmail.com> Copyright (C) 2020 - 2021 
