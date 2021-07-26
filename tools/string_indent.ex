@@ -1,3 +1,3 @@
-# simple util for mantra to indent string values
+# simple util for slick to indent string values
 defmodule string_indent do
 end
