@@ -1,13 +1,13 @@
-# The mantra programming-language
+# The slick programming-language
 
 A duck-typed, dynamic oop language with a fully redundant actor-model, running on top of the BEAM architecture. 
 
 [![Elixir CI](https://github.com/timo-cmd2/mantra/actions/workflows/elixir.yml/badge.svg)](https://github.com/timo-cmd2/mantra/actions/workflows/elixir.yml)
 ![Elixir](https://img.shields.io/badge/Elixir-1.12.0-9378C9?logo=elixir&logoColor=9378C9)
 
-## Features of Mantra
+## Features of Slick
 
-The mantra programming-language is quick evolving and mantaining a clean ecosystem. Some core features and ideas of mantra are listed below:
+The slick programming-language is quick evolving and mantaining a clean ecosystem. Some core features and ideas of mantra are listed below:
 
 - Syntax inspired by **Ruby, Erlang, Elixir, Lisp and Dylan**
 - Fully redundant actor-model
@@ -20,27 +20,27 @@ The mantra programming-language is quick evolving and mantaining a clean ecosyst
 
 **You can find samples of using the language under <a href="https://github.com/timo-cmd2/mantra/examples">/examples/</a>**
 
-> Note: Mantra is a work-in-progress, so many features are still not yet implemented
+> Note: Slick is a work-in-progress, so many features are still not yet implemented
 
-## Installing Mantra
+## Installing Slick
 
-The simplest way to get Mantra installed on your system is to fire up a unix-like shell and type:
+The simplest way to get Slick installed on your system is to fire up a unix-like shell and type:
 
 > Note: The installation requires git and elixir/mix installed
 
 ```bash
-git clone https://github.com/timo-cmd2/mantra.git mantra
-cd mantra
+git clone https://github.com/timo-cmd2/slick.git slick 
+cd slick
 mix deps.get
 mix compile
 ```
 
-## Find mantra on the internet
+## Find slick on the internet
 
-- **IRC Channel**: #mantra-lang @ freenode
-- **Gitter chat**: #mantra-lang coming soon
-- **Mantra website**: https://mantra-lang.org coming soon
+- **IRC Channel**: #slick-lang @ freenode
+- **Gitter chat**: #slick-lang coming soon
+- **Slick website**: https://slick-lang.org coming soon
 
 ## Licensing
 
-The Mantra programming-language is build by Timo Sarkar <sartimo10@gmail.com> Copyright (C) 2020 - 2021 
+The Slick programming-language is build by Timo Sarkar <sartimo10@gmail.com> Copyright (C) 2020 - 2021 
