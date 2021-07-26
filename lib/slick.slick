@@ -1,8 +1,8 @@
-require "lib/version.mantra"
+require "lib/slick/version.slick"
 
 package lib
-  class mantra
-    define mantra()
+  class slick
+    define slick()
       :attr_accessor @input
       :attr_getter   @get
     end
