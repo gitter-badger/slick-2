@@ -1,5 +1,5 @@
 package slick
   class version
-    def VERSION = "0.0.1-dev"
+    version = "0.0.1-dev"
   end
 end
