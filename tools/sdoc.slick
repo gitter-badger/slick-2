@@ -1,9 +1,9 @@
-# mdoc: A JSON based documentation generator for Mantra
+# sdoc: A JSON based documentation generator for Slick
 require json
 require stdlib
 
 packge tools 
-  class mdoc
+  class sdoc
     :attr_accessor @input
     :getter        @getter
 
@@ -12,8 +12,8 @@ packge tools
       @getter = []
     end
 
-    define mdoc(@input)
-      define @input = mdoc.self
+    define sdoc(@input)
+      define @input = sdoc.self
     end
   end
 end
