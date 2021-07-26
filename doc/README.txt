@@ -1,2 +1,2 @@
-# The Mantra programming-language
+# The Slick programming-language
 
