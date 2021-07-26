@@ -2,7 +2,7 @@
 
 A duck-typed, dynamic oop language with a fully redundant actor-model, running on top of the BEAM architecture. 
 
-[![Elixir CI](https://github.com/timo-cmd2/mantra/actions/workflows/elixir.yml/badge.svg)](https://github.com/timo-cmd2/mantra/actions/workflows/elixir.yml)
+[![Elixir CI](https://github.com/timo-cmd2/mantra/actions/workflows/elixir.yml/badge.svg)](https://github.com/timo-cmd2/mantra/actions/workflows/elixir.yml) [![Join the chat at https://gitter.im/slick-lang/community](https://badges.gitter.im/slick-lang/community.svg)](https://gitter.im/slick-lang/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![Elixir](https://img.shields.io/badge/Elixir-1.12.0-9378C9?logo=elixir&logoColor=9378C9)
 
 ## Features of Slick
