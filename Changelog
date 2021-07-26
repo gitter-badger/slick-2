@@ -1,8 +1,8 @@
-**The Mantra programming-language changelog**
+**The Slick programming-language changelog**
 
 Version 0.0.1-dev | 25.7.2021
 =============================
   - initialized project structure 
   - added initial syntax samples
   - added initial boostrapping compiler
-
+  - renamed language to slick
